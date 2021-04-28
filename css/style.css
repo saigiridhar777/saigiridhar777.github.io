@@ -1,0 +1,150 @@
+body{
+margin: 0;
+text-align: center;
+font-family: 'Merriweather',serif;
+font-size-20px;
+color: Black;
+}
+
+*h1{
+margin-top: 0;
+font-size: 15.625rem;
+margin-top: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+}
+
+h2{
+  font-family: 'Merriweather', sans-serif;
+    font-size: 1.5rem;
+color: #66BFBF;
+font weight=normal;
+}
+
+h3{
+font-family: 'Sacramento', sans-serif;
+font-size: 2.5rem;
+color: #11999E;
+}
+
+*.top-container {
+  background-color: #F8F8FF;
+  position: relative;
+  padding top:100px;
+  width:auto;
+  height:auto;
+  }
+
+*.middle-container {
+background-color: #F8F8FF;
+width: auto;
+height: auto;
+}
+
+.bottom-container {
+background-color: #F8F8FF;
+width:auto;
+height:auto;
+  }
+
+.pro {
+text-decoration: underline;
+}
+
+.top cloud{
+position: absolute;
+padding-top: 150px;
+right: 300px;
+top: 50px;
+}
+
+.middle cloud{
+position: relative;
+bottom: 600px;
+	left: 100px;
+}
+
+.bottom cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+
+.mainbody {
+  position: absolute;
+      top: 0;
+      bottom: 0;
+      width:100%;
+}
+
+.footer {
+          height: 100px;
+          position: absolute;
+          bottom: 0;
+          width:100%;
+{
+
+.Intro {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+table
+{
+margin-right: auto;
+margin-left: auto;
+}
+
+body {
+    text-align: center;
+}
+
+table{
+      margin: 0 auto;
+}
+table{
+  border-spacing:0;
+}
+
+tr:first-of-type{
+  background:lightgray;
+  }
+
+td:nth-child(odd){
+  font-weight:bold;
+}
+
+th,td{
+  padding:5px;
+}
+
+table, tbody, tr, th, td { background: transparent; }
+thead { background: #aaa; }
+
+html, body {
+    padding:0;
+    margin:0;
+}
+
+skills{
+width: 25%
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+float: left;
+}
+
+profile{
+width=25%;
+float: left;
+}
+
+exp-row{
+width=25%;
+float: left;
+}
+
+
+
+}
